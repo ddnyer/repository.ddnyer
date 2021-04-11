@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<addons><addon id="repository.ddnyer" version="0.1.0" name="DDE repository" provider-name="ddnyer">
+<addons><addon id="repository.ddnyer" version="0.2.0" name="DDE repository" provider-name="ddnyer">
 	<requires>
 		<import addon="xbmc.addon" version="12.0.0" />
 	</requires>
