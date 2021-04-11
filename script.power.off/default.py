@@ -8,7 +8,7 @@ LOG_MESSAGE = ADDON.getAddonInfo('name') + ': {}'
 
 
 def log(message):
-    xbmc.log(LOG_MESSAGE.format(message), xbmc.INFO)
+    xbmc.log(LOG_MESSAGE.format(message), level=xbmc.LOGINFO)
 
 
 log("Turn off the TV")

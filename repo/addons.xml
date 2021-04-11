@@ -18,7 +18,7 @@
 			<icon>icon.png</icon>
 		</assets>
 	</extension>
-</addon><addon id="script.power.off" name="Power off TV" version="1.0.0" provider-name="ddnyer">
+</addon><addon id="script.power.off" name="Power off TV" version="1.0.1" provider-name="ddnyer">
   <requires>
     <import addon="xbmc.python" version="3.0.0" />
   </requires>
